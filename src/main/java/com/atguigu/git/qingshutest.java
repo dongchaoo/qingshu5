@@ -22,5 +22,9 @@ public class qingshutest {
         System.out.println("天长地久，海枯石烂");
         System.out.println("天长地久，海枯石烂");
 
+        System.out.println("didididi");
+        System.out.println("didididi");
+        System.out.println("didididi");
+
     }
 }
